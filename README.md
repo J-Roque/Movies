@@ -9,7 +9,8 @@ las rutas, lo que significa que puedes navegar fácilmente por diferentes seccio
 <hr>
 
 Esta página se conecta directamente a la API de The Movie Database (TMDb)
-![Movies](movies-react.png)
+<hr>
 
+![Movies](movies-react.png)
 ![Detalle-Movies](movie-details.png)
 
