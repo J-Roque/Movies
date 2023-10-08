@@ -1,0 +1,31 @@
+.header{
+    z-index: 200;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    position: fixed;
+}
+.header_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 88px;
+}
+.heder_nav-img{
+    cursor: pointer;
+}
+.header_nav-ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.header_nav-ul_li{
+    font-weight: 200;
+    cursor: pointer;
+}
+@media (max-width:480px){
+    .header_nav-ul{
+        display: none;
+    }
+}
