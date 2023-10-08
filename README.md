@@ -1,8 +1,9 @@
-# Pagina de peliculas con React + Vite + API
+# Movies 
+Esta página web dinámica fue creada con  de React y las bibliotecas esenciales como React DOM, useState y useEffect. Utilizamos React Router para gestionar 
+las rutas, lo que significa que puedes navegar fácilmente por diferentes secciones de nuestro sitio.
+[pagina](https://movies-reacts.netlify.app/)
+Esta página se conecta directamente a la API de The Movie Database (TMDb)
 ![Movies](movies-react.png)
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[pagina](https://www.themoviedb.org/)
+![Detalle-Movies](movie-details.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
